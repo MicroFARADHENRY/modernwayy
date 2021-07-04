@@ -28,4 +28,11 @@ else:
     else:
         print("Sorry Maybe Next time")
 
+print("Shall we continue?")
+yo_lo=input("YES or NO?:")
+if yo_lo== 'YES':
+    print("Okay Great!")
+else:
+    print("Okay comeback next time")
+
     input('Press ENTER to exit')
